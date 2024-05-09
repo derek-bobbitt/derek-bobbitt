@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derek-bobbitt
 - 🏛️ Investment Banking Analyst, Greater Boston Area 
-- 🌱 Interests: DeFi | Venture Capital | Data Analytics
+- 🌱 Interests: Digital Assets | DeFi | Data Analytics
 - 🎓 Master's in Business Analytics '24 | BS Finance '23 (Honors)
 - 📫 Best way to reach me: https://www.linkedin.com/in/derek-bobbitt/
 
