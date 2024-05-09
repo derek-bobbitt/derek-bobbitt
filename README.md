@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @derek-bobbitt
-- 👀 I’m interested in asset tokenization and business analytics
-- 🌱 I’m currently attending a Master's in Business Analytics Program
+- 🏛️ Investment Banking Analyst, Greater Boston Area 
+- 🌱 Interests: DeFi | Venture Capital | Data Analytics
+- 🎓 Master's in Business Analytics '24 | BS Finance '23 (Honors)
 - 📫 Best way to reach me: https://www.linkedin.com/in/derek-bobbitt/
 
 <!---
